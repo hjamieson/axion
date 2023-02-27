@@ -5,7 +5,7 @@ package axion;
 
 public class App {
     public String getGreeting() {
-        return "Hello World!";
+        return "Goodbye World!";
     }
 
     public static void main(String[] args) {
